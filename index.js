@@ -30,7 +30,7 @@ notification20[Symbol.iterator] = function() {
 
 for (const element of notification20) {
   console.log(element);
-}
+}// Telephone   Hello   05.06.2024     Computer   How are you   06.06.2024    Server    Attention    07.06.2024
 
 ///////////////////////////////////////////////////////////////////
 function slow(myDate) {
